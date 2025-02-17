@@ -1,15 +1,15 @@
 ---
-title: New test note
+title: Here is the note title
 feed: show
 date: 2025-02-17
-permalink: /new-test-note
+permalink:
 format:
 ---
-# Here is the note title
+## There is no need for a separate title as the note title will be used
 
 Here is some introductory text.
 
-## Here is a note subheading
+### Here is a note subheading
 
 Here is some additional text under the new heading.
 
@@ -20,5 +20,8 @@ Here is a bulleted list:
 
 > Here is a blockquote
 
-==Here is some text that's been highlighted in the original note. Does it carry through? Let's find out!==
+*Here is some text that's been italicised in the original note. Does it carry through? Let's find out!*
 
+I'm also going to try some Wiki-style links and see what happens. Here are the notes in this feed so far:
+- [[Markdown Rendered]]
+- [[Welcome to the garden]]
