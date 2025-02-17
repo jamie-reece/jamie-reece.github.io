@@ -1,7 +1,6 @@
 ---
 title: New test note
-feed:
-  - show
+feed: show
 date: 2025-02-17
 permalink: /new-test-note
 format:
